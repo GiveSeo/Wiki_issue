@@ -8,9 +8,9 @@ on:
     types: [wiki-updated]
 
 env:
-  REPO_OWNER: EXAMPLE # github username 작성
-  REPO_NAME: REPO_NAME # main repository name 작성
-  WIKI_REPO_NAME: REPO_NAME.wiki # wiki repository name 작성
+  REPO_OWNER: GiveSeo # github username 작성
+  REPO_NAME: Wiki_issue # main repository name 작성
+  WIKI_REPO_NAME: Wiki_issue.wiki # wiki repository name 작성
   PDF_FILENAME: Wiki_ALL.pdf # 생성될 PDF 파일명 작성
   COMMITTER_NAME: github-actions[bot] 
   COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
